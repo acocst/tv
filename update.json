@@ -3,7 +3,7 @@
     "#1": "是否更新；true为开启，false为关闭，(versionCode大于客户端并且值为true是提示更新必须条件)",
     "hasUpdate": true,
     "#2": "通过判断客户端APK里的versionCode值提示是否升级，设置值＞客户端值则提示升级",
-    "versionCode": 20,
+    "versionCode": 2,
     "#3": "升级版本等信息",
     "apkSize": "版本酷9_64位py_m_2.0.3.4  \n\napk大小：49.37MB",
     "#4": "升级内容；\n为展示内容分行",
